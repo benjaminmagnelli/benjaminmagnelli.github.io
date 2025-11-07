@@ -6,6 +6,6 @@ subtitle: Work in Progress...
 
 # Hi! 
 ## I'm Benjamin Magnelli,
-### a research working on Galaxy Evoluiton at the CEA Paris-Saclay.
+### a researcher working on Galaxy Evolution at the CEA Paris-Saclay.
 
 More to come...
